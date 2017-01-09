@@ -1,0 +1,363 @@
+fileFormatVersion: 2
+guid: 476db73e65b6bc94fa6f0bbd5b5c5835
+timeCreated: 1483983782
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: "d\xFC\u011Fme"
+    100002: //RootNode
+    100004: ivir zivir
+    100006: Object_1
+    100008: Object_1 1
+    100010: Object_1 2
+    100012: Object_1 3
+    100014: Object_1 4
+    100016: Object_1 5
+    100018: Object_10
+    100020: Object_100
+    100022: Object_101
+    100024: Object_102
+    100026: Object_103
+    100028: Object_104
+    100030: Object_105
+    100032: Object_106
+    100034: Object_107
+    100036: Object_108
+    100038: Object_109
+    100040: Object_11
+    100042: Object_110
+    100044: Object_111
+    100046: Object_112
+    100048: Object_113
+    100050: Object_114
+    100052: Object_115
+    100054: Object_116
+    100056: Object_117
+    100058: Object_118
+    100060: Object_119
+    100062: Object_12
+    100064: Object_120
+    100066: Object_121
+    100068: Object_122
+    100070: Object_123
+    100072: Object_124
+    100074: Object_125
+    100076: Object_126
+    100078: Object_127
+    100080: Object_128
+    100082: Object_129
+    100084: Object_13
+    100086: Object_130
+    100088: Object_131
+    100090: Object_132
+    100092: Object_132 1
+    100094: Object_132 2
+    100096: Object_132 3
+    100098: Object_132 4
+    100100: Object_132 5
+    100102: Object_14
+    100104: Object_15
+    100106: Object_16
+    100108: Object_17
+    100110: Object_18
+    100112: Object_19
+    100114: Object_2
+    100116: Object_20
+    100118: Object_21
+    100120: Object_22
+    100122: Object_23
+    100124: Object_24
+    100126: Object_25
+    100128: Object_26
+    100130: Object_27
+    100132: Object_28
+    100134: Object_29
+    100136: Object_3
+    100138: Object_30
+    100140: Object_31
+    100142: Object_32
+    100144: Object_33
+    100146: Object_34
+    100148: Object_35
+    100150: Object_36
+    100152: Object_37
+    100154: Object_38
+    100156: Object_39
+    100158: Object_4
+    100160: Object_40
+    100162: Object_41
+    100164: Object_42
+    100166: Object_43
+    100168: Object_44
+    100170: Object_45
+    100172: Object_46
+    100174: Object_47
+    100176: Object_48
+    100178: Object_49
+    100180: Object_5
+    100182: Object_50
+    100184: Object_51
+    100186: Object_52
+    100188: Object_53
+    100190: Object_54
+    100192: Object_55
+    100194: Object_56
+    100196: Object_57
+    100198: Object_58
+    100200: Object_59
+    100202: Object_6
+    100204: Object_60
+    100206: Object_61
+    100208: Object_62
+    100210: Object_63
+    100212: Object_64
+    100214: Object_65
+    100216: Object_66
+    100218: Object_67
+    100220: Object_68
+    100222: Object_69
+    100224: Object_7
+    100226: Object_70
+    100228: Object_71
+    100230: Object_72
+    100232: Object_73
+    100234: Object_74
+    100236: Object_75
+    100238: Object_76
+    100240: Object_77
+    100242: Object_78
+    100244: Object_79
+    100246: Object_8
+    100248: Object_80
+    100250: Object_81
+    100252: Object_82
+    100254: Object_83
+    100256: Object_84
+    100258: Object_85
+    100260: Object_86
+    100262: Object_87
+    100264: Object_88
+    100266: Object_89
+    100268: Object_9
+    100270: Object_90
+    100272: Object_91
+    100274: Object_92
+    100276: Object_93
+    100278: Object_94
+    100280: Object_95
+    100282: Object_96
+    100284: Object_97
+    100286: Object_98
+    100288: Object_99
+    100290: speaker
+    400000: "d\xFC\u011Fme"
+    400002: //RootNode
+    400004: ivir zivir
+    400006: Object_1
+    400008: Object_1 1
+    400010: Object_1 2
+    400012: Object_1 3
+    400014: Object_1 4
+    400016: Object_1 5
+    400018: Object_10
+    400020: Object_100
+    400022: Object_101
+    400024: Object_102
+    400026: Object_103
+    400028: Object_104
+    400030: Object_105
+    400032: Object_106
+    400034: Object_107
+    400036: Object_108
+    400038: Object_109
+    400040: Object_11
+    400042: Object_110
+    400044: Object_111
+    400046: Object_112
+    400048: Object_113
+    400050: Object_114
+    400052: Object_115
+    400054: Object_116
+    400056: Object_117
+    400058: Object_118
+    400060: Object_119
+    400062: Object_12
+    400064: Object_120
+    400066: Object_121
+    400068: Object_122
+    400070: Object_123
+    400072: Object_124
+    400074: Object_125
+    400076: Object_126
+    400078: Object_127
+    400080: Object_128
+    400082: Object_129
+    400084: Object_13
+    400086: Object_130
+    400088: Object_131
+    400090: Object_132
+    400092: Object_132 1
+    400094: Object_132 2
+    400096: Object_132 3
+    400098: Object_132 4
+    400100: Object_132 5
+    400102: Object_14
+    400104: Object_15
+    400106: Object_16
+    400108: Object_17
+    400110: Object_18
+    400112: Object_19
+    400114: Object_2
+    400116: Object_20
+    400118: Object_21
+    400120: Object_22
+    400122: Object_23
+    400124: Object_24
+    400126: Object_25
+    400128: Object_26
+    400130: Object_27
+    400132: Object_28
+    400134: Object_29
+    400136: Object_3
+    400138: Object_30
+    400140: Object_31
+    400142: Object_32
+    400144: Object_33
+    400146: Object_34
+    400148: Object_35
+    400150: Object_36
+    400152: Object_37
+    400154: Object_38
+    400156: Object_39
+    400158: Object_4
+    400160: Object_40
+    400162: Object_41
+    400164: Object_42
+    400166: Object_43
+    400168: Object_44
+    400170: Object_45
+    400172: Object_46
+    400174: Object_47
+    400176: Object_48
+    400178: Object_49
+    400180: Object_5
+    400182: Object_50
+    400184: Object_51
+    400186: Object_52
+    400188: Object_53
+    400190: Object_54
+    400192: Object_55
+    400194: Object_56
+    400196: Object_57
+    400198: Object_58
+    400200: Object_59
+    400202: Object_6
+    400204: Object_60
+    400206: Object_61
+    400208: Object_62
+    400210: Object_63
+    400212: Object_64
+    400214: Object_65
+    400216: Object_66
+    400218: Object_67
+    400220: Object_68
+    400222: Object_69
+    400224: Object_7
+    400226: Object_70
+    400228: Object_71
+    400230: Object_72
+    400232: Object_73
+    400234: Object_74
+    400236: Object_75
+    400238: Object_76
+    400240: Object_77
+    400242: Object_78
+    400244: Object_79
+    400246: Object_8
+    400248: Object_80
+    400250: Object_81
+    400252: Object_82
+    400254: Object_83
+    400256: Object_84
+    400258: Object_85
+    400260: Object_86
+    400262: Object_87
+    400264: Object_88
+    400266: Object_89
+    400268: Object_9
+    400270: Object_90
+    400272: Object_91
+    400274: Object_92
+    400276: Object_93
+    400278: Object_94
+    400280: Object_95
+    400282: Object_96
+    400284: Object_97
+    400286: Object_98
+    400288: Object_99
+    400290: speaker
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
