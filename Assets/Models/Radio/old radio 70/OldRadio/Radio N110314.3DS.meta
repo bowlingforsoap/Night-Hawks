@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 999c31708123ee0499d7edd92d8f3bc9
+timeCreated: 1484413648
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box03
+    100002: ChamferBo0
+    100004: ChamferBo1
+    100006: ChamferBo2
+    100008: ChamferBox
+    100010: Circle03
+    100012: Cylinder01
+    100014: Cylinder09
+    100016: Cylinder10
+    100018: Cylinder11
+    100020: Cylinder12
+    100022: Ellipse03
+    100024: Line16
+    100026: Line17
+    100028: Line18
+    100030: Line19
+    100032: Omni03
+    100034: //RootNode
+    100036: Sphere05
+    100038: Sphere06
+    400000: Box03
+    400002: ChamferBo0
+    400004: ChamferBo1
+    400006: ChamferBo2
+    400008: ChamferBox
+    400010: Circle03
+    400012: Cylinder01
+    400014: Cylinder09
+    400016: Cylinder10
+    400018: Cylinder11
+    400020: Cylinder12
+    400022: Ellipse03
+    400024: Line16
+    400026: Line17
+    400028: Line18
+    400030: Line19
+    400032: Omni03
+    400034: //RootNode
+    400036: Sphere05
+    400038: Sphere06
+    2300000: Box03
+    2300002: ChamferBo0
+    2300004: ChamferBo1
+    2300006: ChamferBo2
+    2300008: ChamferBox
+    2300010: Circle03
+    2300012: Cylinder01
+    2300014: Cylinder09
+    2300016: Cylinder10
+    2300018: Cylinder11
+    2300020: Cylinder12
+    2300022: Ellipse03
+    2300024: Line16
+    2300026: Line17
+    2300028: Line18
+    2300030: Line19
+    2300032: Sphere05
+    2300034: Sphere06
+    3300000: Box03
+    3300002: ChamferBo0
+    3300004: ChamferBo1
+    3300006: ChamferBo2
+    3300008: ChamferBox
+    3300010: Circle03
+    3300012: Cylinder01
+    3300014: Cylinder09
+    3300016: Cylinder10
+    3300018: Cylinder11
+    3300020: Cylinder12
+    3300022: Ellipse03
+    3300024: Line16
+    3300026: Line17
+    3300028: Line18
+    3300030: Line19
+    3300032: Sphere05
+    3300034: Sphere06
+    4300000: Cylinder10
+    4300002: Cylinder11
+    4300004: Cylinder12
+    4300006: Sphere05
+    4300008: Cylinder01
+    4300010: Line17
+    4300012: Circle03
+    4300014: Sphere06
+    4300016: Cylinder09
+    4300018: Ellipse03
+    4300020: Box03
+    4300022: Line19
+    4300024: ChamferBox
+    4300026: Line18
+    4300028: ChamferBo0
+    4300030: ChamferBo1
+    4300032: Line16
+    4300034: ChamferBo2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

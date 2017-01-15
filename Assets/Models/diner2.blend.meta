@@ -439,6 +439,68 @@ ModelImporter:
     100862: Wrist_R_0
     100864: Wrist_R_1
     100866: Wrist_R_2
+    100868: Diner_001
+    100870: arch20_100
+    100872: arch20_101
+    100874: arch20_102
+    100876: arch20_103
+    100878: arch20_104
+    100880: arch20_105
+    100882: arch20_106
+    100884: arch20_107
+    100886: arch20_112
+    100888: arch20_113
+    100890: arch20_118
+    100892: arch20_119
+    100894: arch20_124
+    100896: arch20_125
+    100898: arch20_129
+    100900: arch20_130
+    100902: arch20_131
+    100904: arch20_136
+    100906: arch20_137
+    100908: arch20_142
+    100910: arch20_143
+    100912: arch20_144
+    100914: Box03
+    100916: ceiling_fan
+    100918: ChamferBo0
+    100920: ChamferBo1
+    100922: ChamferBo2
+    100924: ChamferBox
+    100926: Circle03
+    100928: Cylinder01
+    100930: Cylinder09
+    100932: Cylinder10
+    100934: Cylinder11
+    100936: Cylinder12
+    100938: Diner_Corner
+    100940: Diner_Pillar
+    100942: Ellipse03
+    100944: Gramophone
+    100946: Line16
+    100948: Line17
+    100950: Line18
+    100952: Line19
+    100954: Old_Radio_70
+    100956: Part2
+    100958: Part2_002
+    100960: Part2_003
+    100962: Part2_004
+    100964: Part2_005
+    100966: Part2_006
+    100968: Part2_007
+    100970: Part2_008
+    100972: Part2_009
+    100974: Part2_010
+    100976: Part2_011
+    100978: Part2_012
+    100980: Part2_013
+    100982: salero
+    100984: Salt_Dispencer
+    100986: Sphere05
+    100988: Sphere06
+    100990: Tapa
     400000: amanda
     400002: Ankle_L
     400004: Ankle_L_0
@@ -873,6 +935,68 @@ ModelImporter:
     400862: Wrist_R_0
     400864: Wrist_R_1
     400866: Wrist_R_2
+    400868: Diner_001
+    400870: arch20_100
+    400872: arch20_101
+    400874: arch20_102
+    400876: arch20_103
+    400878: arch20_104
+    400880: arch20_105
+    400882: arch20_106
+    400884: arch20_107
+    400886: arch20_112
+    400888: arch20_113
+    400890: arch20_118
+    400892: arch20_119
+    400894: arch20_124
+    400896: arch20_125
+    400898: arch20_129
+    400900: arch20_130
+    400902: arch20_131
+    400904: arch20_136
+    400906: arch20_137
+    400908: arch20_142
+    400910: arch20_143
+    400912: arch20_144
+    400914: Box03
+    400916: ceiling_fan
+    400918: ChamferBo0
+    400920: ChamferBo1
+    400922: ChamferBo2
+    400924: ChamferBox
+    400926: Circle03
+    400928: Cylinder01
+    400930: Cylinder09
+    400932: Cylinder10
+    400934: Cylinder11
+    400936: Cylinder12
+    400938: Diner_Corner
+    400940: Diner_Pillar
+    400942: Ellipse03
+    400944: Gramophone
+    400946: Line16
+    400948: Line17
+    400950: Line18
+    400952: Line19
+    400954: Old_Radio_70
+    400956: Part2
+    400958: Part2_002
+    400960: Part2_003
+    400962: Part2_004
+    400964: Part2_005
+    400966: Part2_006
+    400968: Part2_007
+    400970: Part2_008
+    400972: Part2_009
+    400974: Part2_010
+    400976: Part2_011
+    400978: Part2_012
+    400980: Part2_013
+    400982: salero
+    400984: Salt_Dispencer
+    400986: Sphere05
+    400988: Sphere06
+    400990: Tapa
     2300000: Brewery_Vessel_Body
     2300002: Brewery_Vessel_Body_001
     2300004: Brewery_Vessel_Leg
@@ -886,6 +1010,64 @@ ModelImporter:
     2300020: Diner_Floor
     2300022: Diner_Glass
     2300024: diner_v2_Window_Pillars
+    2300026: Diner_001
+    2300028: arch20_100
+    2300030: arch20_101
+    2300032: arch20_102
+    2300034: arch20_103
+    2300036: arch20_104
+    2300038: arch20_105
+    2300040: arch20_106
+    2300042: arch20_107
+    2300044: arch20_112
+    2300046: arch20_113
+    2300048: arch20_118
+    2300050: arch20_119
+    2300052: arch20_124
+    2300054: arch20_125
+    2300056: arch20_129
+    2300058: arch20_130
+    2300060: arch20_131
+    2300062: arch20_136
+    2300064: arch20_137
+    2300066: arch20_142
+    2300068: arch20_143
+    2300070: arch20_144
+    2300072: Box03
+    2300074: ChamferBo0
+    2300076: ChamferBo1
+    2300078: ChamferBo2
+    2300080: ChamferBox
+    2300082: Circle03
+    2300084: Cylinder01
+    2300086: Cylinder09
+    2300088: Cylinder10
+    2300090: Cylinder11
+    2300092: Cylinder12
+    2300094: Diner_Corner
+    2300096: Diner_Pillar
+    2300098: Ellipse03
+    2300100: Line16
+    2300102: Line17
+    2300104: Line18
+    2300106: Line19
+    2300108: Part2
+    2300110: Part2_002
+    2300112: Part2_003
+    2300114: Part2_004
+    2300116: Part2_005
+    2300118: Part2_006
+    2300120: Part2_007
+    2300122: Part2_008
+    2300124: Part2_009
+    2300126: Part2_010
+    2300128: Part2_011
+    2300130: Part2_012
+    2300132: Part2_013
+    2300134: salero
+    2300136: Sphere05
+    2300138: Sphere06
+    2300140: Tapa
     3300000: Brewery_Vessel_Body
     3300002: Brewery_Vessel_Body_001
     3300004: Brewery_Vessel_Leg
@@ -899,6 +1081,64 @@ ModelImporter:
     3300020: Diner_Floor
     3300022: Diner_Glass
     3300024: diner_v2_Window_Pillars
+    3300026: Diner_001
+    3300028: arch20_100
+    3300030: arch20_101
+    3300032: arch20_102
+    3300034: arch20_103
+    3300036: arch20_104
+    3300038: arch20_105
+    3300040: arch20_106
+    3300042: arch20_107
+    3300044: arch20_112
+    3300046: arch20_113
+    3300048: arch20_118
+    3300050: arch20_119
+    3300052: arch20_124
+    3300054: arch20_125
+    3300056: arch20_129
+    3300058: arch20_130
+    3300060: arch20_131
+    3300062: arch20_136
+    3300064: arch20_137
+    3300066: arch20_142
+    3300068: arch20_143
+    3300070: arch20_144
+    3300072: Box03
+    3300074: ChamferBo0
+    3300076: ChamferBo1
+    3300078: ChamferBo2
+    3300080: ChamferBox
+    3300082: Circle03
+    3300084: Cylinder01
+    3300086: Cylinder09
+    3300088: Cylinder10
+    3300090: Cylinder11
+    3300092: Cylinder12
+    3300094: Diner_Corner
+    3300096: Diner_Pillar
+    3300098: Ellipse03
+    3300100: Line16
+    3300102: Line17
+    3300104: Line18
+    3300106: Line19
+    3300108: Part2
+    3300110: Part2_002
+    3300112: Part2_003
+    3300114: Part2_004
+    3300116: Part2_005
+    3300118: Part2_006
+    3300120: Part2_007
+    3300122: Part2_008
+    3300124: Part2_009
+    3300126: Part2_010
+    3300128: Part2_011
+    3300130: Part2_012
+    3300132: Part2_013
+    3300134: salero
+    3300136: Sphere05
+    3300138: Sphere06
+    3300140: Tapa
     4300000: HeadF_003
     4300002: SuitGEO01_003
     4300004: mesh
@@ -921,6 +1161,64 @@ ModelImporter:
     4300038: Brewery_Vessel_Leg_001
     4300040: Brewery_Vessel_Leg
     4300042: Brewery_Vessel_Body
+    4300044: Diner_001
+    4300046: salero
+    4300048: Tapa
+    4300050: Part2_013
+    4300052: Part2_012
+    4300054: Part2_011
+    4300056: Part2_010
+    4300058: Part2_009
+    4300060: Part2_008
+    4300062: Part2_007
+    4300064: Part2_006
+    4300066: Part2_005
+    4300068: Part2_004
+    4300070: Part2_003
+    4300072: Part2_002
+    4300074: Part2
+    4300076: ChamferBo2
+    4300078: Line16
+    4300080: ChamferBo1
+    4300082: ChamferBo0
+    4300084: Line18
+    4300086: ChamferBox
+    4300088: Line19
+    4300090: Box03
+    4300092: Ellipse03
+    4300094: Cylinder09
+    4300096: Sphere06
+    4300098: Circle03
+    4300100: Line17
+    4300102: Cylinder01
+    4300104: Sphere05
+    4300106: Cylinder12
+    4300108: Cylinder11
+    4300110: Cylinder10
+    4300112: arch20_144
+    4300114: arch20_143
+    4300116: arch20_142
+    4300118: arch20_137
+    4300120: arch20_136
+    4300122: arch20_131
+    4300124: arch20_130
+    4300126: arch20_129
+    4300128: arch20_125
+    4300130: arch20_124
+    4300132: arch20_119
+    4300134: arch20_118
+    4300136: arch20_113
+    4300138: arch20_112
+    4300140: arch20_107
+    4300142: arch20_106
+    4300144: arch20_105
+    4300146: arch20_103
+    4300148: arch20_102
+    4300150: arch20_101
+    4300152: arch20_100
+    4300154: arch20_104
+    4300156: Diner_Pillar
+    4300158: Diner_Corner
     7400000: Default Take
     9500000: //RootNode
     13700000: HeadF
