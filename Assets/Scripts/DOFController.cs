@@ -26,11 +26,11 @@ public class DOFController : MonoBehaviour {
 			if (hit.collider.CompareTag ("Sound")) {
 				Debug.Log ("Huston, we have a hit!");
 				// TODO: introduce a way to differenciate between objects on Sound layer
-				fanSnapshot.TransitionTo (1000f);
+				fanSnapshot.TransitionTo (1);
 
 				soundWasHit = true;
 			} else if (soundWasHit) {
-				masterSnapshot.TransitionTo (1000f);
+				masterSnapshot.TransitionTo (1);
 
 				soundWasHit = false;
 			}
