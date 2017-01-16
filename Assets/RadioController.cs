@@ -20,10 +20,16 @@ public class RadioController : MonoBehaviour {
 		
 	}
 
-	void ChangeTune() {
-		int nextSong = Mathf.Clamp (prevSong + 1, 0, audioClips.Length);
+	public void ChangeTune() {
+		Debug.Log ("Change Tune");
+
+		int nextSong = prevSong + 1;
+		if (nextSong >= audioClips.Length) {
+			nextSong = 0;
+		}
 		audioSource.clip = audioClips [nextSong];
 		audioSource.Play ();
+
 		prevSong = nextSong;
 	}
 }
