@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: e25f944a6ec206a47b15f8d7ae83b3a1
+timeCreated: 1484866437
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera_and_Image_Group_l1
+    100002: Chairs_in_window_001
+    100004: Counter
+    100006: Counter_001
+    100008: CounterHP
+    100010: CounterHP_MeshPart0
+    100012: CounterHP_MeshPart1
+    100014: CounterHP_MeshPart10
+    100016: CounterHP_MeshPart11
+    100018: CounterHP_MeshPart12
+    100020: CounterHP_MeshPart13
+    100022: CounterHP_MeshPart2
+    100024: CounterHP_MeshPart3
+    100026: CounterHP_MeshPart4
+    100028: CounterHP_MeshPart5
+    100030: CounterHP_MeshPart6
+    100032: CounterHP_MeshPart7
+    100034: CounterHP_MeshPart8
+    100036: CounterHP_MeshPart9
+    100038: //RootNode
+    100040: Diner_Ceiling
+    100042: Diner_Glass
+    100044: Main
+    100046: Nighthawks_001
+    400000: Camera_and_Image_Group_l1
+    400002: Chairs_in_window_001
+    400004: Counter
+    400006: Counter_001
+    400008: CounterHP
+    400010: CounterHP_MeshPart0
+    400012: CounterHP_MeshPart1
+    400014: CounterHP_MeshPart10
+    400016: CounterHP_MeshPart11
+    400018: CounterHP_MeshPart12
+    400020: CounterHP_MeshPart13
+    400022: CounterHP_MeshPart2
+    400024: CounterHP_MeshPart3
+    400026: CounterHP_MeshPart4
+    400028: CounterHP_MeshPart5
+    400030: CounterHP_MeshPart6
+    400032: CounterHP_MeshPart7
+    400034: CounterHP_MeshPart8
+    400036: CounterHP_MeshPart9
+    400038: //RootNode
+    400040: Diner_Ceiling
+    400042: Diner_Glass
+    400044: Main
+    400046: Nighthawks_001
+    2300000: Chairs_in_window_001
+    2300002: Counter
+    2300004: Counter_001
+    2300006: CounterHP_MeshPart0
+    2300008: CounterHP_MeshPart1
+    2300010: CounterHP_MeshPart10
+    2300012: CounterHP_MeshPart11
+    2300014: CounterHP_MeshPart12
+    2300016: CounterHP_MeshPart13
+    2300018: CounterHP_MeshPart2
+    2300020: CounterHP_MeshPart3
+    2300022: CounterHP_MeshPart4
+    2300024: CounterHP_MeshPart5
+    2300026: CounterHP_MeshPart6
+    2300028: CounterHP_MeshPart7
+    2300030: CounterHP_MeshPart8
+    2300032: CounterHP_MeshPart9
+    2300034: Diner_Ceiling
+    2300036: Diner_Glass
+    2300038: //RootNode
+    3300000: Chairs_in_window_001
+    3300002: Counter
+    3300004: Counter_001
+    3300006: CounterHP_MeshPart0
+    3300008: CounterHP_MeshPart1
+    3300010: CounterHP_MeshPart10
+    3300012: CounterHP_MeshPart11
+    3300014: CounterHP_MeshPart12
+    3300016: CounterHP_MeshPart13
+    3300018: CounterHP_MeshPart2
+    3300020: CounterHP_MeshPart3
+    3300022: CounterHP_MeshPart4
+    3300024: CounterHP_MeshPart5
+    3300026: CounterHP_MeshPart6
+    3300028: CounterHP_MeshPart7
+    3300030: CounterHP_MeshPart8
+    3300032: CounterHP_MeshPart9
+    3300034: Diner_Ceiling
+    3300036: Diner_Glass
+    3300038: //RootNode
+    4300000: CounterHP_MeshPart0
+    4300002: CounterHP_MeshPart1
+    4300004: CounterHP_MeshPart2
+    4300006: CounterHP_MeshPart3
+    4300008: CounterHP_MeshPart4
+    4300010: CounterHP_MeshPart5
+    4300012: CounterHP_MeshPart6
+    4300014: CounterHP_MeshPart7
+    4300016: CounterHP_MeshPart8
+    4300018: CounterHP_MeshPart9
+    4300020: CounterHP_MeshPart10
+    4300022: CounterHP_MeshPart11
+    4300024: CounterHP_MeshPart12
+    4300026: CounterHP_MeshPart13
+    4300028: Diner_Glass
+    4300030: Diner_Ceiling
+    4300032: Counter
+    4300034: Chairs_in_window_001
+    4300036: Counter_001
+    4300038: CounterLPNormal
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

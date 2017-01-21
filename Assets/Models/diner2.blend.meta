@@ -501,6 +501,11 @@ ModelImporter:
     100986: Sphere05
     100988: Sphere06
     100990: Tapa
+    100992: salero_inner
+    100994: aa
+    100996: Left_Door
+    100998: Right_Door
+    101000: Left_Door_GLass
     400000: amanda
     400002: Ankle_L
     400004: Ankle_L_0
@@ -997,6 +1002,11 @@ ModelImporter:
     400986: Sphere05
     400988: Sphere06
     400990: Tapa
+    400992: salero_inner
+    400994: aa
+    400996: Left_Door
+    400998: Right_Door
+    401000: Left_Door_GLass
     2300000: Brewery_Vessel_Body
     2300002: Brewery_Vessel_Body_001
     2300004: Brewery_Vessel_Leg
@@ -1068,6 +1078,11 @@ ModelImporter:
     2300136: Sphere05
     2300138: Sphere06
     2300140: Tapa
+    2300142: salero_inner
+    2300144: aa
+    2300146: Left_Door
+    2300148: Right_Door
+    2300150: Left_Door_GLass
     3300000: Brewery_Vessel_Body
     3300002: Brewery_Vessel_Body_001
     3300004: Brewery_Vessel_Leg
@@ -1139,6 +1154,11 @@ ModelImporter:
     3300136: Sphere05
     3300138: Sphere06
     3300140: Tapa
+    3300142: salero_inner
+    3300144: aa
+    3300146: Left_Door
+    3300148: Right_Door
+    3300150: Left_Door_GLass
     4300000: HeadF_003
     4300002: SuitGEO01_003
     4300004: mesh
@@ -1219,6 +1239,11 @@ ModelImporter:
     4300154: arch20_104
     4300156: Diner_Pillar
     4300158: Diner_Corner
+    4300160: salero_inner
+    4300162: aa
+    4300164: Right_Door
+    4300166: Left_Door
+    4300168: Left_Door_GLass
     7400000: Default Take
     9500000: //RootNode
     13700000: HeadF
