@@ -506,6 +506,119 @@ ModelImporter:
     100996: Left_Door
     100998: Right_Door
     101000: Left_Door_GLass
+    101002: Plane_010
+    101004: Amanda_Body
+    101006: Amanda_Dress
+    101008: Amanda_Group
+    101010: Amanda_Hair
+    101012: chest_0
+    101014: footbase_001
+    101016: head_0
+    101018: headcontrol_001
+    101020: hip_0
+    101022: hipcontrol_001
+    101024: jaw_0
+    101026: Joint_3_10
+    101028: Joint_3_11
+    101030: Joint_3_12
+    101032: Joint_3_13
+    101034: Joint_3_14
+    101036: Joint_3_15
+    101038: Joint_3_2_end
+    101040: Joint_3_3_end
+    101042: Joint_3_4_end
+    101044: Joint_3_5_end
+    101046: Joint_3_6_end
+    101048: Joint_3_7_end
+    101050: Joint_3_8_end
+    101052: Joint_3_9
+    101054: Joint_3_end
+    101056: Joint_4_2_end
+    101058: Joint_4_3
+    101060: Joint_4_end
+    101062: Joint_5
+    101064: Joint_6
+    101066: kniferoot_0
+    101068: kniferoot_end
+    101070: L_ankle_0
+    101072: L_ankle_Goal_001
+    101074: L_arm_0
+    101076: L_ARM_001
+    101078: L_arm_Pole_001
+    101080: L_elbow_0
+    101082: L_eye_0
+    101084: L_eye_end
+    101086: L_foot_0
+    101088: L_FOOT_001
+    101090: L_foot_Goal_001
+    101092: L_knee_0
+    101094: L_leg_0
+    101096: L_leg_Pole_001
+    101098: L_middle4
+    101100: L_middle5
+    101102: L_middle6
+    101104: L_pink4
+    101106: L_pink5
+    101108: L_pink6
+    101110: L_point4
+    101112: L_point5
+    101114: L_point6
+    101116: L_ring4
+    101118: L_ring5
+    101120: L_ring6
+    101122: L_shoulder_0
+    101124: L_thumb4
+    101126: L_thumb5
+    101128: L_thumb6
+    101130: L_toes_0
+    101132: L_toes_end
+    101134: L_toes_Goal_001
+    101136: L_wrist_0
+    101138: L_wrist_Goal_001
+    101140: lip_0
+    101142: lip_end
+    101144: mesh_001
+    101146: neck_0
+    101148: neckcontrol_001
+    101150: R_ankle_0
+    101152: R_ankle_Goal_001
+    101154: R_arm_0
+    101156: R_ARM_001_TODO__delete
+    101158: R_arm_Pole_001
+    101160: R_elbow_0
+    101162: R_eye_0
+    101164: R_eye_end
+    101166: R_foot_0
+    101168: R_FOOT_001
+    101170: R_foot_Goal_001
+    101172: R_knee_0
+    101174: R_leg_0
+    101176: R_leg_Pole_001
+    101178: R_middle4
+    101180: R_middle5
+    101182: R_middle6
+    101184: R_pink4
+    101186: R_pink5
+    101188: R_pink6
+    101190: R_point4
+    101192: R_point5
+    101194: R_point6
+    101196: R_ring4
+    101198: R_ring5
+    101200: R_ring6
+    101202: R_shoulder_0
+    101204: R_thumb4
+    101206: R_thumb5
+    101208: R_thumb6
+    101210: R_toes_0
+    101212: R_toes_end
+    101214: R_toes_Goal_001
+    101216: R_wrist_0
+    101218: R_wrist_Goal_001
+    101220: spine_0
+    101222: spinecontrol_001
+    101224: tip_0
+    101226: tip_end
     400000: amanda
     400002: Ankle_L
     400004: Ankle_L_0
@@ -1007,6 +1120,119 @@ ModelImporter:
     400996: Left_Door
     400998: Right_Door
     401000: Left_Door_GLass
+    401002: Plane_010
+    401004: Amanda_Body
+    401006: Amanda_Dress
+    401008: Amanda_Group
+    401010: Amanda_Hair
+    401012: chest_0
+    401014: footbase_001
+    401016: head_0
+    401018: headcontrol_001
+    401020: hip_0
+    401022: hipcontrol_001
+    401024: jaw_0
+    401026: Joint_3_10
+    401028: Joint_3_11
+    401030: Joint_3_12
+    401032: Joint_3_13
+    401034: Joint_3_14
+    401036: Joint_3_15
+    401038: Joint_3_2_end
+    401040: Joint_3_3_end
+    401042: Joint_3_4_end
+    401044: Joint_3_5_end
+    401046: Joint_3_6_end
+    401048: Joint_3_7_end
+    401050: Joint_3_8_end
+    401052: Joint_3_9
+    401054: Joint_3_end
+    401056: Joint_4_2_end
+    401058: Joint_4_3
+    401060: Joint_4_end
+    401062: Joint_5
+    401064: Joint_6
+    401066: kniferoot_0
+    401068: kniferoot_end
+    401070: L_ankle_0
+    401072: L_ankle_Goal_001
+    401074: L_arm_0
+    401076: L_ARM_001
+    401078: L_arm_Pole_001
+    401080: L_elbow_0
+    401082: L_eye_0
+    401084: L_eye_end
+    401086: L_foot_0
+    401088: L_FOOT_001
+    401090: L_foot_Goal_001
+    401092: L_knee_0
+    401094: L_leg_0
+    401096: L_leg_Pole_001
+    401098: L_middle4
+    401100: L_middle5
+    401102: L_middle6
+    401104: L_pink4
+    401106: L_pink5
+    401108: L_pink6
+    401110: L_point4
+    401112: L_point5
+    401114: L_point6
+    401116: L_ring4
+    401118: L_ring5
+    401120: L_ring6
+    401122: L_shoulder_0
+    401124: L_thumb4
+    401126: L_thumb5
+    401128: L_thumb6
+    401130: L_toes_0
+    401132: L_toes_end
+    401134: L_toes_Goal_001
+    401136: L_wrist_0
+    401138: L_wrist_Goal_001
+    401140: lip_0
+    401142: lip_end
+    401144: mesh_001
+    401146: neck_0
+    401148: neckcontrol_001
+    401150: R_ankle_0
+    401152: R_ankle_Goal_001
+    401154: R_arm_0
+    401156: R_ARM_001_TODO__delete
+    401158: R_arm_Pole_001
+    401160: R_elbow_0
+    401162: R_eye_0
+    401164: R_eye_end
+    401166: R_foot_0
+    401168: R_FOOT_001
+    401170: R_foot_Goal_001
+    401172: R_knee_0
+    401174: R_leg_0
+    401176: R_leg_Pole_001
+    401178: R_middle4
+    401180: R_middle5
+    401182: R_middle6
+    401184: R_pink4
+    401186: R_pink5
+    401188: R_pink6
+    401190: R_point4
+    401192: R_point5
+    401194: R_point6
+    401196: R_ring4
+    401198: R_ring5
+    401200: R_ring6
+    401202: R_shoulder_0
+    401204: R_thumb4
+    401206: R_thumb5
+    401208: R_thumb6
+    401210: R_toes_0
+    401212: R_toes_end
+    401214: R_toes_Goal_001
+    401216: R_wrist_0
+    401218: R_wrist_Goal_001
+    401220: spine_0
+    401222: spinecontrol_001
+    401224: tip_0
+    401226: tip_end
     2300000: Brewery_Vessel_Body
     2300002: Brewery_Vessel_Body_001
     2300004: Brewery_Vessel_Leg
@@ -1083,6 +1309,9 @@ ModelImporter:
     2300146: Left_Door
     2300148: Right_Door
     2300150: Left_Door_GLass
+    2300152: Plane_010
+    2300154: Amanda_Dress
+    2300156: Amanda_Hair
     3300000: Brewery_Vessel_Body
     3300002: Brewery_Vessel_Body_001
     3300004: Brewery_Vessel_Leg
@@ -1159,6 +1388,9 @@ ModelImporter:
     3300146: Left_Door
     3300148: Right_Door
     3300150: Left_Door_GLass
+    3300152: Plane_010
+    3300154: Amanda_Dress
+    3300156: Amanda_Hair
     4300000: HeadF_003
     4300002: SuitGEO01_003
     4300004: mesh
@@ -1244,6 +1476,10 @@ ModelImporter:
     4300164: Right_Door
     4300166: Left_Door
     4300168: Left_Door_GLass
+    4300170: Plane_010
+    4300172: mesh_001
+    4300174: Amanda_Hair
+    4300176: Amanda_Dress
     7400000: Default Take
     9500000: //RootNode
     13700000: HeadF
@@ -1255,6 +1491,7 @@ ModelImporter:
     13700012: SuitGEO01_001
     13700014: SuitGEO01_002
     13700016: SuitGEO01_003
+    13700018: mesh_001
   materials:
     importMaterials: 1
     materialName: 0

@@ -102,6 +102,10 @@ ModelImporter:
     100188: spinecontrol
     100190: tip
     100192: Cube
+    100194: Amanda_Body
+    100196: Amanda_Dress
+    100198: Amanda_Group
+    100200: Amanda_Hair
     400000: amanda
     400002: //RootNode
     400004: chest
@@ -199,13 +203,23 @@ ModelImporter:
     400188: spinecontrol
     400190: tip
     400192: Cube
+    400194: Amanda_Body
+    400196: Amanda_Dress
+    400198: Amanda_Group
+    400200: Amanda_Hair
     2300000: Plane
     2300002: Cube
+    2300004: Amanda_Dress
+    2300006: Amanda_Hair
     3300000: Plane
     3300002: Cube
+    3300004: Amanda_Dress
+    3300006: Amanda_Hair
     4300000: mesh
     4300002: Plane
     4300004: Cube
+    4300006: Amanda_Hair
+    4300008: Amanda_Dress
     7400000: Default Take
     9500000: //RootNode
     13700000: mesh

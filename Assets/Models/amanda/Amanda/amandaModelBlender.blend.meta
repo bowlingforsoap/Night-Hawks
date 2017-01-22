@@ -102,6 +102,7 @@ ModelImporter:
     100188: spine
     100190: spinecontrol
     100192: tip
+    100194: amandaDressHairBlender
     400000: amanda
     400002: //RootNode
     400004: chest
@@ -199,6 +200,7 @@ ModelImporter:
     400188: spine
     400190: spinecontrol
     400192: tip
+    400194: amandaDressHairBlender
     2300000: Cube
     2300002: Plane
     3300000: Cube
@@ -206,9 +208,11 @@ ModelImporter:
     4300000: Cube
     4300002: mesh
     4300004: Plane
+    4300006: amandaDressHairBlender
     7400000: Default Take
     9500000: //RootNode
     13700000: mesh
+    13700002: amandaDressHairBlender
   materials:
     importMaterials: 1
     materialName: 0
