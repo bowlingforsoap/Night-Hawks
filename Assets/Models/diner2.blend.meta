@@ -619,6 +619,15 @@ ModelImporter:
     101222: spinecontrol_001
     101224: tip_0
     101226: tip_end
+    101228: Amanda_Body_Rig
+    101230: Cylinder
+    101232: HeadF_Nighthawk_Man
+    101234: HeadF_Suited_Man
+    101236: Root_M_Nighthawk
+    101238: SuitGEO1_Nighthawk_Man
+    101240: SuitGEO_Suited_Man
+    101242: Root_M_Barman
+    101244: Cigarette
     400000: amanda
     400002: Ankle_L
     400004: Ankle_L_0
@@ -1233,6 +1242,15 @@ ModelImporter:
     401222: spinecontrol_001
     401224: tip_0
     401226: tip_end
+    401228: Amanda_Body_Rig
+    401230: Cylinder
+    401232: HeadF_Nighthawk_Man
+    401234: HeadF_Suited_Man
+    401236: Root_M_Nighthawk
+    401238: SuitGEO1_Nighthawk_Man
+    401240: SuitGEO_Suited_Man
+    401242: Root_M_Barman
+    401244: Cigarette
     2300000: Brewery_Vessel_Body
     2300002: Brewery_Vessel_Body_001
     2300004: Brewery_Vessel_Leg
@@ -1312,6 +1330,8 @@ ModelImporter:
     2300152: Plane_010
     2300154: Amanda_Dress
     2300156: Amanda_Hair
+    2300158: Cylinder
+    2300160: Cigarette
     3300000: Brewery_Vessel_Body
     3300002: Brewery_Vessel_Body_001
     3300004: Brewery_Vessel_Leg
@@ -1391,6 +1411,8 @@ ModelImporter:
     3300152: Plane_010
     3300154: Amanda_Dress
     3300156: Amanda_Hair
+    3300158: Cylinder
+    3300160: Cigarette
     4300000: HeadF_003
     4300002: SuitGEO01_003
     4300004: mesh
@@ -1480,6 +1502,13 @@ ModelImporter:
     4300172: mesh_001
     4300174: Amanda_Hair
     4300176: Amanda_Dress
+    4300178: Cylinder
+    4300180: Amanda_Body
+    4300182: HeadF_Nighthawk_Man
+    4300184: SuitGEO1_Nighthawk_Man
+    4300186: SuitGEO_Suited_Man
+    4300188: HeadF_Suited_Man
+    4300190: Cigarette
     7400000: Default Take
     9500000: //RootNode
     13700000: HeadF
@@ -1492,6 +1521,11 @@ ModelImporter:
     13700014: SuitGEO01_002
     13700016: SuitGEO01_003
     13700018: mesh_001
+    13700020: Amanda_Body
+    13700022: HeadF_Nighthawk_Man
+    13700024: HeadF_Suited_Man
+    13700026: SuitGEO1_Nighthawk_Man
+    13700028: SuitGEO_Suited_Man
   materials:
     importMaterials: 1
     materialName: 0
