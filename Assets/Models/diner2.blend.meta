@@ -628,6 +628,32 @@ ModelImporter:
     101240: SuitGEO_Suited_Man
     101242: Root_M_Barman
     101244: Cigarette
+    101246: Amanda_Dress_Tailored
+    101248: Left_Door_Glass
+    101250: Brewery_Vessel_Bottom_Handle
+    101252: Brewery_Vessel_Top_Handle
+    101254: Amanda_Dress_Tailored_With_UV
+    101256: Amanda_Hair_ZBrush
+    101258: Suited_Man_Glass
+    101260: Barman_Towel
+    101262: Barman_Towel_MeshPart0
+    101264: Barman_Towel_MeshPart1
+    101266: Barman_Towel_MeshPart2
+    101268: Suited_Man_Glass_001
+    101270: Barman_Towel_MeshPart3
+    101272: Barman_Towel_MeshPart4
+    101274: Barman_Towel_MeshPart5
+    101276: ___DUMMY_Group01_001
+    101278: Band
+    101280: Band_001
+    101282: Hat_Fabric
+    101284: Nighthawk_Hat
+    101286: Object01_001
+    101288: Object02_001
+    101290: Small_Band
+    101292: Hat_Fabric_001
+    101294: Small_Band_001
+    101296: Suited_man_Hat
     400000: amanda
     400002: Ankle_L
     400004: Ankle_L_0
@@ -1251,6 +1277,32 @@ ModelImporter:
     401240: SuitGEO_Suited_Man
     401242: Root_M_Barman
     401244: Cigarette
+    401246: Amanda_Dress_Tailored
+    401248: Left_Door_Glass
+    401250: Brewery_Vessel_Bottom_Handle
+    401252: Brewery_Vessel_Top_Handle
+    401254: Amanda_Dress_Tailored_With_UV
+    401256: Amanda_Hair_ZBrush
+    401258: Suited_Man_Glass
+    401260: Barman_Towel
+    401262: Barman_Towel_MeshPart0
+    401264: Barman_Towel_MeshPart1
+    401266: Barman_Towel_MeshPart2
+    401268: Suited_Man_Glass_001
+    401270: Barman_Towel_MeshPart3
+    401272: Barman_Towel_MeshPart4
+    401274: Barman_Towel_MeshPart5
+    401276: ___DUMMY_Group01_001
+    401278: Band
+    401280: Band_001
+    401282: Hat_Fabric
+    401284: Nighthawk_Hat
+    401286: Object01_001
+    401288: Object02_001
+    401290: Small_Band
+    401292: Hat_Fabric_001
+    401294: Small_Band_001
+    401296: Suited_man_Hat
     2300000: Brewery_Vessel_Body
     2300002: Brewery_Vessel_Body_001
     2300004: Brewery_Vessel_Leg
@@ -1332,6 +1384,29 @@ ModelImporter:
     2300156: Amanda_Hair
     2300158: Cylinder
     2300160: Cigarette
+    2300162: Amanda_Dress_Tailored
+    2300164: Left_Door_Glass
+    2300166: Brewery_Vessel_Bottom_Handle
+    2300168: Brewery_Vessel_Top_Handle
+    2300170: Amanda_Dress_Tailored_With_UV
+    2300172: Amanda_Hair_ZBrush
+    2300174: Suited_Man_Glass
+    2300176: Barman_Towel_MeshPart0
+    2300178: Barman_Towel_MeshPart1
+    2300180: Barman_Towel_MeshPart2
+    2300182: Suited_Man_Glass_001
+    2300184: Barman_Towel_MeshPart3
+    2300186: Barman_Towel_MeshPart4
+    2300188: Barman_Towel_MeshPart5
+    2300190: Barman_Towel
+    2300192: Band
+    2300194: Band_001
+    2300196: Hat_Fabric
+    2300198: Object01_001
+    2300200: Object02_001
+    2300202: Small_Band
+    2300204: Hat_Fabric_001
+    2300206: Small_Band_001
     3300000: Brewery_Vessel_Body
     3300002: Brewery_Vessel_Body_001
     3300004: Brewery_Vessel_Leg
@@ -1413,6 +1488,29 @@ ModelImporter:
     3300156: Amanda_Hair
     3300158: Cylinder
     3300160: Cigarette
+    3300162: Amanda_Dress_Tailored
+    3300164: Left_Door_Glass
+    3300166: Brewery_Vessel_Bottom_Handle
+    3300168: Brewery_Vessel_Top_Handle
+    3300170: Amanda_Dress_Tailored_With_UV
+    3300172: Amanda_Hair_ZBrush
+    3300174: Suited_Man_Glass
+    3300176: Barman_Towel_MeshPart0
+    3300178: Barman_Towel_MeshPart1
+    3300180: Barman_Towel_MeshPart2
+    3300182: Suited_Man_Glass_001
+    3300184: Barman_Towel_MeshPart3
+    3300186: Barman_Towel_MeshPart4
+    3300188: Barman_Towel_MeshPart5
+    3300190: Barman_Towel
+    3300192: Band
+    3300194: Band_001
+    3300196: Hat_Fabric
+    3300198: Object01_001
+    3300200: Object02_001
+    3300202: Small_Band
+    3300204: Hat_Fabric_001
+    3300206: Small_Band_001
     4300000: HeadF_003
     4300002: SuitGEO01_003
     4300004: mesh
@@ -1509,6 +1607,29 @@ ModelImporter:
     4300186: SuitGEO_Suited_Man
     4300188: HeadF_Suited_Man
     4300190: Cigarette
+    4300192: Amanda_Dress_Tailored
+    4300194: Left_Door_Glass
+    4300196: Brewery_Vessel_Top_Handle
+    4300198: Brewery_Vessel_Bottom_Handle
+    4300200: Amanda_Dress_Tailored_With_UV
+    4300202: Amanda_Hair_ZBrush
+    4300204: Suited_Man_Glass
+    4300206: Suited_Man_Glass_001
+    4300208: Barman_Towel_MeshPart0
+    4300210: Barman_Towel_MeshPart1
+    4300212: Barman_Towel_MeshPart2
+    4300214: Barman_Towel_MeshPart3
+    4300216: Barman_Towel_MeshPart4
+    4300218: Barman_Towel_MeshPart5
+    4300220: Barman_Towel
+    4300222: Band_001
+    4300224: Object01_001
+    4300226: Object02_001
+    4300228: Small_Band
+    4300230: Hat_Fabric
+    4300232: Band
+    4300234: Small_Band_001
+    4300236: Hat_Fabric_001
     7400000: Default Take
     9500000: //RootNode
     13700000: HeadF

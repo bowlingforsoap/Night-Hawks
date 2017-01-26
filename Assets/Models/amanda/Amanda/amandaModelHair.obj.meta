@@ -7,11 +7,16 @@ ModelImporter:
   fileIDToRecycleName:
     100000: //RootNode
     100002: default
+    100004: Group32736
     400000: //RootNode
     400002: default
+    400004: Group32736
     2300000: default
+    2300002: Group32736
     3300000: default
+    3300002: Group32736
     4300000: default
+    4300002: Group32736
   materials:
     importMaterials: 1
     materialName: 0
