@@ -4,7 +4,120 @@ timeCreated: 1484413648
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    100000: Box03
+    100002: Camera01
+    100004: Camera01.Target
+    100006: ChamferBox12
+    100008: ChamferBox13
+    100010: ChamferBox14
+    100012: ChamferBox15
+    100014: Circle03
+    100016: Cylinder01
+    100018: Cylinder09
+    100020: Cylinder10
+    100022: Cylinder11
+    100024: Cylinder12
+    100026: Ellipse03
+    100028: Group01
+    100030: Line16
+    100032: Line17
+    100034: Line18
+    100036: Line19
+    100038: Omni03
+    100040: //RootNode
+    100042: Sphere05
+    100044: Sphere06
+    100046: Spot01
+    100048: Spot01.Target
+    100050: Spot02
+    100052: Spot02.Target
+    100054: Spot03
+    100056: Spot03.Target
+    400000: Box03
+    400002: Camera01
+    400004: Camera01.Target
+    400006: ChamferBox12
+    400008: ChamferBox13
+    400010: ChamferBox14
+    400012: ChamferBox15
+    400014: Circle03
+    400016: Cylinder01
+    400018: Cylinder09
+    400020: Cylinder10
+    400022: Cylinder11
+    400024: Cylinder12
+    400026: Ellipse03
+    400028: Group01
+    400030: Line16
+    400032: Line17
+    400034: Line18
+    400036: Line19
+    400038: Omni03
+    400040: //RootNode
+    400042: Sphere05
+    400044: Sphere06
+    400046: Spot01
+    400048: Spot01.Target
+    400050: Spot02
+    400052: Spot02.Target
+    400054: Spot03
+    400056: Spot03.Target
+    2300000: Box03
+    2300002: ChamferBox12
+    2300004: ChamferBox13
+    2300006: ChamferBox14
+    2300008: ChamferBox15
+    2300010: Circle03
+    2300012: Cylinder01
+    2300014: Cylinder09
+    2300016: Cylinder10
+    2300018: Cylinder11
+    2300020: Cylinder12
+    2300022: Ellipse03
+    2300024: Line16
+    2300026: Line17
+    2300028: Line18
+    2300030: Line19
+    2300032: Sphere05
+    2300034: Sphere06
+    3300000: Box03
+    3300002: ChamferBox12
+    3300004: ChamferBox13
+    3300006: ChamferBox14
+    3300008: ChamferBox15
+    3300010: Circle03
+    3300012: Cylinder01
+    3300014: Cylinder09
+    3300016: Cylinder10
+    3300018: Cylinder11
+    3300020: Cylinder12
+    3300022: Ellipse03
+    3300024: Line16
+    3300026: Line17
+    3300028: Line18
+    3300030: Line19
+    3300032: Sphere05
+    3300034: Sphere06
+    4300000: Cylinder10
+    4300002: Cylinder11
+    4300004: Cylinder12
+    4300006: Sphere05
+    4300008: Cylinder01
+    4300010: Line17
+    4300012: Circle03
+    4300014: Sphere06
+    4300016: Cylinder09
+    4300018: Ellipse03
+    4300020: Box03
+    4300022: Line19
+    4300024: ChamferBox12
+    4300026: Line18
+    4300028: ChamferBox15
+    4300030: ChamferBox13
+    4300032: Line16
+    4300034: ChamferBox14
+    9500000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
@@ -51,6 +164,7 @@ ModelImporter:
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
+    serializedVersion: 2
     human: []
     skeleton: []
     armTwist: 0.5
@@ -61,7 +175,10 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 2
   humanoidOversampling: 1

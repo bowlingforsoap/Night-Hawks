@@ -654,6 +654,16 @@ ModelImporter:
     101292: Hat_Fabric_001
     101294: Small_Band_001
     101296: Suited_man_Hat
+    101298: Big_plate
+    101300: fork
+    101302: Knife
+    101304: napkin
+    101306: Shmall_pla
+    101308: Soup_plate
+    101310: Tableware
+    101312: Barman_Glass
+    101314: Line19_not_seen
+    101316: Radio_70
     400000: amanda
     400002: Ankle_L
     400004: Ankle_L_0
@@ -1303,6 +1313,16 @@ ModelImporter:
     401292: Hat_Fabric_001
     401294: Small_Band_001
     401296: Suited_man_Hat
+    401298: Big_plate
+    401300: fork
+    401302: Knife
+    401304: napkin
+    401306: Shmall_pla
+    401308: Soup_plate
+    401310: Tableware
+    401312: Barman_Glass
+    401314: Line19_not_seen
+    401316: Radio_70
     2300000: Brewery_Vessel_Body
     2300002: Brewery_Vessel_Body_001
     2300004: Brewery_Vessel_Leg
@@ -1407,6 +1427,14 @@ ModelImporter:
     2300202: Small_Band
     2300204: Hat_Fabric_001
     2300206: Small_Band_001
+    2300208: Big_plate
+    2300210: fork
+    2300212: Knife
+    2300214: napkin
+    2300216: Shmall_pla
+    2300218: Soup_plate
+    2300220: Barman_Glass
+    2300222: Line19_not_seen
     3300000: Brewery_Vessel_Body
     3300002: Brewery_Vessel_Body_001
     3300004: Brewery_Vessel_Leg
@@ -1511,6 +1539,14 @@ ModelImporter:
     3300202: Small_Band
     3300204: Hat_Fabric_001
     3300206: Small_Band_001
+    3300208: Big_plate
+    3300210: fork
+    3300212: Knife
+    3300214: napkin
+    3300216: Shmall_pla
+    3300218: Soup_plate
+    3300220: Barman_Glass
+    3300222: Line19_not_seen
     4300000: HeadF_003
     4300002: SuitGEO01_003
     4300004: mesh
@@ -1630,6 +1666,14 @@ ModelImporter:
     4300232: Band
     4300234: Small_Band_001
     4300236: Hat_Fabric_001
+    4300238: napkin
+    4300240: fork
+    4300242: Soup_plate
+    4300244: Knife
+    4300246: Shmall_pla
+    4300248: Big_plate
+    4300250: Barman_Glass
+    4300252: Line19_not_seen
     7400000: Default Take
     9500000: //RootNode
     13700000: HeadF
@@ -1676,7 +1720,7 @@ ModelImporter:
     addColliders: 0
     importBlendShapes: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
@@ -1693,6 +1737,7 @@ ModelImporter:
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
+    serializedVersion: 2
     human: []
     skeleton: []
     armTwist: 0.5
@@ -1703,7 +1748,10 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 2
   humanoidOversampling: 1
