@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 085ba613b0993174083241eaa91f1e2a
+timeCreated: 1485716193
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Counter
+    100002: Diner
+    100004: //RootNode
+    100006: Brewery Vessel Body
+    100008: Brewery Vessel Bottom Handle
+    100010: Brewery Vessel Leg
+    100012: Brewery Vessel Top Handle
+    100014: Left Door
+    100016: Left Door Glass
+    100018: Barman Towel
+    100020: Chairs in window
+    100022: Cigarette
+    100024: Diner Inner Pole
+    100026: Diner Glass
+    100028: diner_v2 Window Pillars
+    400000: Counter
+    400002: Diner
+    400004: //RootNode
+    400006: Brewery Vessel Body
+    400008: Brewery Vessel Bottom Handle
+    400010: Brewery Vessel Leg
+    400012: Brewery Vessel Top Handle
+    400014: Left Door
+    400016: Left Door Glass
+    400018: Barman Towel
+    400020: Chairs in window
+    400022: Cigarette
+    400024: Diner Inner Pole
+    400026: Diner Glass
+    400028: diner_v2 Window Pillars
+    2300000: Counter
+    2300002: Diner
+    2300004: //RootNode
+    2300006: Brewery Vessel Body
+    2300008: Brewery Vessel Bottom Handle
+    2300010: Brewery Vessel Leg
+    2300012: Brewery Vessel Top Handle
+    2300014: Left Door
+    2300016: Left Door Glass
+    2300018: Barman Towel
+    2300020: Chairs in window
+    2300022: Cigarette
+    2300024: Diner Inner Pole
+    2300026: Diner Glass
+    2300028: diner_v2 Window Pillars
+    3300000: Counter
+    3300002: Diner
+    3300004: //RootNode
+    3300006: Brewery Vessel Body
+    3300008: Brewery Vessel Bottom Handle
+    3300010: Brewery Vessel Leg
+    3300012: Brewery Vessel Top Handle
+    3300014: Left Door
+    3300016: Left Door Glass
+    3300018: Barman Towel
+    3300020: Chairs in window
+    3300022: Cigarette
+    3300024: Diner Inner Pole
+    3300026: Diner Glass
+    3300028: diner_v2 Window Pillars
+    4300000: Diner
+    4300002: Counter
+    4300004: Brewery Vessel Bottom Handle
+    4300006: Left Door Glass
+    4300008: Left Door
+    4300010: Brewery Vessel Top Handle
+    4300012: Brewery Vessel Leg
+    4300014: Brewery Vessel Body
+    4300016: Cigarette
+    4300018: Barman Towel
+    4300020: Chairs in window
+    4300022: Diner Inner Pole
+    4300024: Diner Glass
+    4300026: diner_v2 Window Pillars
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
